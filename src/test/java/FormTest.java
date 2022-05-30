@@ -5,8 +5,8 @@ import java.util.Random;
 
 public class FormTest {
 
-    String[] first_names = {"Ahmed", "Amr", "Osama", "Hamza"};
-    String[] last_names = {"Sameh", "John", "Jake", "Mazda"};
+    String[] first_names = {"Ahmed", "Amr", "Osama", "Hamza", "Ben", "Ten"};
+    String[] last_names = {"Sameh", "John", "Jake", "Mazda", "Ben", "Ten"};
     String[] job_titles = {"Doctor", "Engineer", "Mechanic", "Developer"};
 
     @Test
